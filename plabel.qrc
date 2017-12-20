@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/PLabel" >
+        <file>Resources/1254830113_label_64.png</file>
+        <file>Resources/Button-Add-icon.png</file>
+        <file>Resources/Button-Delete-icon.png</file>
+        <file>Resources/LeftAlign.png</file>
+        <file>Resources/Pastel_Icons-folder_open_ico-32x32.png</file>
+        <file>Resources/TopAlign.png</file>
+        <file>Resources/add-file-32x32.png</file>
+        <file>Resources/arrow-down-icon.png</file>
+        <file>Resources/arrow-left-icon.png</file>
+        <file>Resources/arrow-right-icon.png</file>
+        <file>Resources/arrow-up-icon.png</file>
+        <file>Resources/background-icon.png</file>
+        <file>Resources/bringtofront.png</file>
+        <file>Resources/close-32x32.png</file>
+        <file>Resources/color.png</file>
+        <file>Resources/delete-file-32x32.png</file>
+        <file>Resources/fs-view-icon.png</file>
+        <file>Resources/grid1.png</file>
+        <file>Resources/image-add-icon.png</file>
+        <file>Resources/image-remove-icon.png</file>
+        <file>Resources/image5.png</file>
+        <file>Resources/image6.png</file>
+        <file>Resources/image7.png</file>
+        <file>Resources/imageItalic.PNG</file>
+        <file>Resources/imageunderlined.PNG</file>
+        <file>Resources/isimple_system_lnx-Icons-32X32-copy_png-32x32.png</file>
+        <file>Resources/isimple_system_lnx-Icons-32X32-file_new_png-32x32.png</file>
+        <file>Resources/isimple_system_lnx-Icons-32X32-paste_png-32x32.png</file>
+        <file>Resources/isimple_system_lnx-Icons-32X32-save_as_png-32x32.png</file>
+        <file>Resources/k-color-chooser-icon.png</file>
+        <file>Resources/k-color-edit-icon.png</file>
+        <file>Resources/sendtoback.png</file>
+        <file>Resources/shapeRectangle_icon.png</file>
+        <file>Resources/zoom-in-icon.png</file>
+        <file>Resources/zoom-out-icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,34 @@
+<ui version="4.0" >
+ <class>QAboutSClass</class>
+ <widget class="QDialog" name="QAboutSClass" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>389</width>
+    <height>120</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>About Text Label Creator</string>
+  </property>
+  <property name="windowIcon" >
+   <iconset resource="plabel.qrc" >:/PLabel/Resources/1254830113_label_64.png</iconset>
+  </property>
+  <widget class="QLabel" name="label_2" >
+   <property name="geometry" >
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>0</width>
+     <height>14</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11" />
+ <resources>
+  <include location="plabel.qrc" />
+ </resources>
+ <connections/>
+</ui>
