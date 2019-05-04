@@ -4,15 +4,7 @@ LabelCreator
 ==================================
 This is a simple application for creating labels
 
-Building
-========
+[![Watch the video](https://img.youtube.com/vi/0dIl3Kd2gro/maxresdefault.jpg)](https://youtu.be/0dIl3Kd2gro)
 
-To build this, you'll need the following in your build path:
 
-Installation
-================
-
-Usage
-================
-Once installed:
 
